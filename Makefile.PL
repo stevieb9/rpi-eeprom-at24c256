@@ -8,7 +8,7 @@ my %WriteMakefileArgs = (
     AUTHOR           => q{Steve Bertrand <steveb@cpan.org>},
     VERSION_FROM     => 'lib/RPi/EEPROM/AT24C256.pm',
     ABSTRACT_FROM    => 'lib/RPi/EEPROM/AT24C256.pm',
-    LICENSE          => 'artistic_2',
+    LICENSE          => 'perl_5',
     MIN_PERL_VERSION => '5.006',
     META_MERGE => {
         'meta-spec' => { version => 2 },

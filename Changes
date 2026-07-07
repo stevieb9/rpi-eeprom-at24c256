@@ -2,3 +2,5 @@ Revision history for RPi-EEPROM-AT24C256
 
 0.01 UNREL
     - Auto generated distribution with Dist::Mgr
+    - Implemented AT24C256 read/write support over i2c via an XS layer, ported
+      from RPi::EEPROM::AT24C32 (32768-byte array, valid addresses 0-32767)

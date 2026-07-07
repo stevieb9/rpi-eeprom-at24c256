@@ -1,6 +1,10 @@
 ~$
 ^blib/
 ^pm_to_blib/
+^AT24C256\.c
+\.c$
+\.o$
+\.bs$
 .old$
 .orig$
 .tar.gz$
