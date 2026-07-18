@@ -81,6 +81,8 @@ sub _check_byte {
     return 1;
 }
 
+sub _vim{};
+
 1;
 __END__
 
